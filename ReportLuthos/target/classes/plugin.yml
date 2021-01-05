@@ -1,0 +1,7 @@
+name: ReportLuthos
+version: 0.1
+main: org.ik26w30.luthos.reportluthos.ReportLuthos
+author: Ik26w30
+description: idk
+commands:
+  report:
